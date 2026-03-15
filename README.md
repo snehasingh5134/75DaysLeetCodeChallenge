@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
