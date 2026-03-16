@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
