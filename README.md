@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
