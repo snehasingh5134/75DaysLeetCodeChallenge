@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 ## Simulation
