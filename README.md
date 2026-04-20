@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
