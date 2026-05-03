@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
