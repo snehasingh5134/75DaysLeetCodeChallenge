@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Stack
