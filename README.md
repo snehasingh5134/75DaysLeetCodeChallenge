@@ -139,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
