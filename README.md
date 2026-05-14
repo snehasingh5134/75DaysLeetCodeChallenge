@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [3163-string-compression-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3163-string-compression-iii) |
 ## Prefix Sum
 |  |
 | ------- |
