@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
