@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
@@ -306,10 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 ## Monotonic Stack
 |  |
