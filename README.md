@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
