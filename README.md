@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
