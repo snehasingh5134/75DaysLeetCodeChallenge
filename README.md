@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
