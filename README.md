@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
