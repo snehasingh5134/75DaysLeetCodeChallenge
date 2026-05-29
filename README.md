@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
@@ -326,11 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
