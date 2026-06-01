@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
@@ -472,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
