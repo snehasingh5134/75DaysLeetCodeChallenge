@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Matrix
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
