@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
