@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
