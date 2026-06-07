@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 ## Binary Tree
