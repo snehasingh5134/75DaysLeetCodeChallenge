@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 ## Number Theory
 |  |
