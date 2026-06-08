@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 ## Matrix
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 ## Sliding Window
 |  |
 | ------- |
