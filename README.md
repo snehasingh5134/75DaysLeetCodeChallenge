@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1518-water-bottles](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 ## Number Theory
 |  |
