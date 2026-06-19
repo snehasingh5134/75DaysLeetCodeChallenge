@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Linked List
