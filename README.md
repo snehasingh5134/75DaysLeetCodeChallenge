@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
 |  |
@@ -585,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
