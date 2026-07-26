@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [0556-next-greater-element-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
