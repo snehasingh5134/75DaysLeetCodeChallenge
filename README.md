@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
