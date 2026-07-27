@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
