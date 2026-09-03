@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2843-count-symmetric-integers](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2843-count-symmetric-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
