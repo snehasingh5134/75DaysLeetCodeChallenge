@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [2032-two-out-of-three](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2032-two-out-of-three) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Number Theory
 |  |
 | ------- |
