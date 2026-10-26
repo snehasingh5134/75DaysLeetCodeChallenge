@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
