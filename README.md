@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
