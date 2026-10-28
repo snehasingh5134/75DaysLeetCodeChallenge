@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
