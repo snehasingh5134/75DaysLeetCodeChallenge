@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/snehasingh5134/75DaysLeetCodeChallenge/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
